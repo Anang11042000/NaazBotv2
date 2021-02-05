@@ -191,7 +191,7 @@ const getRegisteredRandomId = () => {
 					ownerG: '*ᴍᴀᴀꜰ ᴩᴇʀɪɴᴛᴀʜ ɪɴɪ ʜᴀɴyᴀ ʙɪꜱᴀ ᴅɪ ɢᴜɴᴀᴋᴀɴ ᴏʟᴇʜ ᴏᴡɴᴇʀ ɢʀᴏᴜᴩ!*',
 					ownerB: '*ᴍᴀᴀꜰ ᴩᴇʀɪɴᴛᴀʜ ɪɴɪ ʜᴀɴyᴀ ʙɪꜱᴀ ᴅɪ ɢᴜɴᴀᴋᴀɴ ᴏʟᴇʜ ᴏᴡɴᴇʀ ʙᴏᴛ!* ',
 					premium: '*ᴍᴀᴀꜰ ꜰɪᴛᴜʀ ɪɴɪ ᴋʜᴜꜱᴜꜱ ᴜꜱᴇʀ ᴩʀᴇᴍɪᴜᴍ!!*',
-					userB: `ʜᴀɪ *${pushname2}* ᴋᴀᴍᴜ ʙᴇʟᴜᴍ ᴍᴇɴᴊᴀᴅɪ ᴛᴇᴍᴀɴ *${name}* \nꜱɪʟᴀʜᴋᴀɴ ᴅᴀꜰᴛᴀʀ ᴅᴜʟᴜ yᴀᴀ ᴅᴇɴɢᴀɴ ᴄᴀʀᴀ\n\n contoh ${prefix}ᴅᴀꜰᴛᴀʀ ${pushname2}/18/Bekasi`,
+					userB: `──「 DAFTAR 」──\nHalo kak 👋 *${pushname2}*\nKamu Belum Terdaftar Didalam Databse. *${name}* \n\nCommand ${prefix}daftar nama\umur\daerah \ncontoh format: ${prefix}daftar Naaz\18\Bekasi\n\n──「 NAAZBOT 」──`,
 					admin: '*ᴍᴀᴀꜰ ᴩᴇʀɪɴᴛᴀʜ ɪɴɪ ʜᴀɴyᴀ ʙɪꜱᴀ ᴅɪ ɢᴜɴᴀᴋᴀɴ ᴏʟᴇʜ ᴀᴅᴍɪɴ ɢʀᴏᴜᴩ!*',
 					Badmin: '*ᴍᴀᴀꜰ ᴩᴇʀɪɴᴛᴀʜ ɪɴɪ ʜᴀɴyᴀ ʙɪꜱᴀ ᴅɪ ɢᴜɴᴀᴋᴀɴ ᴋᴇᴛɪᴋᴀ ʙᴏᴛ ᴍᴇɴᴊᴀᴅɪ ᴀᴅᴍɪɴ!*'
 				}
