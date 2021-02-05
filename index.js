@@ -68,7 +68,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'END:VCARD'
 
 prefix = "#"
-name = "N A A Z | B O T"
+name = "NAAZBOT"
 rdaftar = "TERIMA KASIH TELAH DAFTAR😁"
 rmenu = "HAI TEMEN NAAZBOT👋"
 limitt = 25
